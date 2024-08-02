@@ -1,6 +1,6 @@
 # California houses price prediction with streamlit
 
-Try app [here]([https://titanic.streamlit.app/](https://californiahousespriceprediction-hunter-zwer4090.streamlit.app/))!
+Try app [here](https://californiahousespriceprediction-hunter-zwer4090.streamlit.app/)!
 
 Prediction house prices of California state university using Random forest random forest regressor and dataset from scikit learn
 
